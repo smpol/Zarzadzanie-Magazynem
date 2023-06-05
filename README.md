@@ -33,6 +33,7 @@ Z zastosowanych technologi na tem moment to:
 
  - HTML
  - Bootstrap
+ - Oprogramowanie Bootstrap Studio
  - PHP
  - Baza danych w PostgreSQL
  - Oraz gotowe skrypty JavaScript w tym:
