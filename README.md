@@ -8,6 +8,10 @@ Projekt ten ma za zadanie pomóc mniejszym przedsiębiorstwom łatwiej zarządza
 
 Jest to ciekawa alternatywa dla prostych arkuszy kalkulacyjnych które mogą być miejscami nieczytelne dla zwykłego użytkownika.
 
+## Zastrzeżenia
+
+Projekt ten jest w fazie rozwoju i nie jest jeszcze w pełni funkcjonalny. Niektóre funkcje mogą nie działać poprawnie lub wcale, dlatego warto wziąść to pod uwagę.
+
 ## Możliwości
 Główne możliwości projektu to:
 
