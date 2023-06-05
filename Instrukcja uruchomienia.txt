@@ -1,0 +1,3 @@
+- W "baza_danych.sql" znajduje się gotowa baza danych z przykładowymi rekordami
+- w pliku "bazadanych.php" należy podać dane do logowania bazy PostgreSQL
+- Domyślne konto to "admin" a hasło to "student"

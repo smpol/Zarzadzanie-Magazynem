@@ -1,0 +1,21 @@
+{
+  "theme_color": "#0275d8",
+  "description": "Aplikacja do zarządzania magazynem",
+  "background_color": "#0275d8",
+  "short_name": "Magazyn App",
+  "name": "Zarządzanie Magazynem",
+  "icons": [
+    {
+      "src": "files/img/ikona.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "files/img/ikona.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "index.php",
+  "display": "standalone"
+}
